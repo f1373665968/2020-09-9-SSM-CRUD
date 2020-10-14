@@ -1,0 +1,16 @@
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\dao\EmployeeMapper.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\bean\Employee.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\controller\EmployeeController.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\service\EmployeeService.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\test\MBGTest.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\bean\Department.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\service\DepartmentService.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\bean\EmployeeExample.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\bean\Msg.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\dao\DepartmentMapper.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\service\impl\EmployeeServiceImpl.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\test\MVCTest.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\service\impl\DepartmentServiceImpl.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\test\MapperTest.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\bean\DepartmentExample.java
+E:\Project\2020-09-9-SSM-CRUD\src\main\java\com\f\crud\controller\DepartmentController.java
